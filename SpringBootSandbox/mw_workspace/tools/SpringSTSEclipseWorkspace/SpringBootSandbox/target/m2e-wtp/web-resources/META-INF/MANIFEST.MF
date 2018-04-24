@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootSandbox
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mwarda001
+Implementation-Vendor-Id: mwr.omd
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootSandbox
+Created-By: Maven Integration for Eclipse
+
